@@ -1,0 +1,48 @@
+<style>
+td
+{
+    width: 30px;
+}
+</style>
+table{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.d1
+{
+    height: 200px;
+    width: 99%;
+    background-color: pink;
+    margin-top: 200px;
+}
+footer {
+    text-align: center;
+    padding: 4px;
+    background-color:blanchedalmo;
+    color: black;
+}
+.image{
+    height: 10px;
+    width: 2%;
+}
+ .navbar{   
+    margin-left:600px;
+    margin-top: 0px;
+    height: 50px;
+ }
+ .nav{
+    height: 50px;
+    margin-left: 100px;
+    margin-bottom: 400px;
+}
+.nav1{
+    height: 50px;
+    margin-left: 100px;
+    margin-bottom: 400px;
+    
+}
+.nav2{
+    height: 50px;
+    margin-left: 100px;
+    margin-bottom: 400px;
+}
